@@ -16,4 +16,4 @@ const APIKey = '//Your API Key';
 # Screenshot
 Project screenshot:
 
-![screenshot](/WeatherApp/images/Screenshot.png)
+![screenshot](./images/Screenshot.png)
