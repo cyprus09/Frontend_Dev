@@ -1,2 +1,2 @@
 //Files to not keep
-*.DS_Store
+.DS_Store
