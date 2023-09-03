@@ -4,7 +4,7 @@
 You need to get your own api key and replace it in index.js file on line 9 :
 
 ```javascript
-const APIKey = 'Your Api Key';
+const APIKey = '//Your API Key';
 ```
 
 ## API Key Generation
@@ -16,4 +16,4 @@ const APIKey = 'Your Api Key';
 # Screenshot
 Project screenshot:
 
-![screenshot](WeatherApp/images/Screenshot.png)
+![screenshot](/WeatherApp/images/Screenshot.png)
